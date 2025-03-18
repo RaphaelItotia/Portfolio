@@ -40,12 +40,12 @@ function App() {
 
   const projects = [
     {
-      title: "Beyond My Tribe",
-      description: "A website for Beyond My Tribe organization",
+      title: "Customer Satisfaction Analysis",
+      description: "In this project, I used hypothesis testing (paired t-test) to determine if there is a statistically significant improvement in customer satisfaction after the service improvements at Murima Superstores.",
       image: customerImage,
-      technologies: ["Javascript", "jQuery", "Bootstrap5", "Strapi CMS"],
-      githubUrl: "https://www.beyondmytribe.org/",
-      liveUrl: "https://www.beyondmytribe.org/",
+      technologies: ["Statistical Analysis (Hypothesis Testing)", "Python Programming", "Bootstrap5", "Strapi CMS"],
+      githubUrl: "https://github.com/RaphaelItotia/Customer_Satisfaction_Analysis",
+      liveUrl: "",
     },
     {
       title: "Real Estate",
