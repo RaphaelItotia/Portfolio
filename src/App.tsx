@@ -235,27 +235,20 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-gray-600 mb-6">
-                I'm a full-stack developer with expertise in modern web
-                technologies. With 3+ years of experience, I specialize in
-                creating scalable and efficient solutions that solve real-world
-                problems.
+                I'm a data analyst with expertise in transforming complex datasets into actionable insights. With experience in data visualization, business intelligence, and statistical analysis, I specialize in helping businesses make data-driven decisions.
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
                   <Code2 className="h-5 w-5 text-indigo-600" />
-                  <span>Frontend Development</span>
+                  <span>Data Analytics</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Database className="h-5 w-5 text-indigo-600" />
-                  <span>Backend Development</span>
+                  <span>Business Intelligence</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Layout className="h-5 w-5 text-indigo-600" />
-                  <span>UI/UX Design</span>
-                </div>
-                <div className="flex items-center gap-2">
-                  <PenTool className="h-5 w-5 text-indigo-600" />
-                  <span>Technical Writing</span>
+                  <span>AI-powered Data Solutions</span>
                 </div>
               </div>
               <ResumeButton />
