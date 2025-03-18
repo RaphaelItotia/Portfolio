@@ -29,7 +29,7 @@ function App() {
       description: "Turning raw data into meaningful insights that drive informed decision-making"
     },
     {
-      text: "Business Intelligence Analyst",
+      text: "BI Analyst",
       description: "Designing dashboards and reports to help organizations monitor key metrics, identify trends, and optimize performance"
     }
   ];
