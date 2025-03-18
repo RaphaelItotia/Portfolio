@@ -30,7 +30,7 @@ function App() {
     },
     {
       text: "Business Intelligence Analyst",
-      description: "Designing data-driven dashboards and reports to help organizations monitor key metrics, identify trends, and optimize performance"
+      description: "Designing dashboards and reports to help organizations monitor key metrics, identify trends, and optimize performance"
     }
   ];
 
