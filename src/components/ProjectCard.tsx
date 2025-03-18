@@ -57,7 +57,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             className="flex items-center gap-2 text-gray-600 hover:text-indigo-600 transition-colors"
           >
             <ExternalLink className="h-5 w-5" />
-            <span>Live Demo</span>
+            <span>Report</span>
           </a>
         </div>
       </div>
