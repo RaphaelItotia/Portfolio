@@ -24,7 +24,7 @@ import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 import humanImage from "./assets/human.png"
 import ContactForm from "./components/ContactForm";
-import profilePicture from "./assets/itotias-pic.jpeg"
+// import profilePicture from "./assets/itotias-pic.jpeg" 
 
 function App() {
   const titles = [
