@@ -19,6 +19,7 @@ import SkillCard from "./components/SkillCard";
 import customerImage from "./assets/murima_header.png";
 import revenuedebtImage from "./assets/Thumbnail.png";
 import watertanksImage from "./assets/Header_Tanks.png";
+import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
 import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
@@ -63,12 +64,25 @@ function App() {
       image: watertanksImage,
       technologies: [
         "Web Scraping",
-        " Hypothesis Testing",
+        "Hypothesis Testing",
         "Exploratory Data Analysis (EDA)"
       ],
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
       liveUrl: "",
     },
+    {
+      title: "Kenyan YouTubers Analysis",
+      description:
+        "The Head of Marketing seeks to identify the optimal Kenyan YouTubers for conducting marketing campaigns over the marketing period. The goal is to uncover the recommendable youtubers to work with",
+      image: kenyaImage,
+      technologies: [
+        "SQL",
+        "Power BI",
+        "Data Cleaning & Transformation"
+      ],
+      githubUrl: "https://github.com/RaphaelItotia/Kenyan_Youtubers_Analysis",
+      liveUrl: "",
+    }
   ];
 
   const experiences = [
