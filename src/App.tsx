@@ -13,7 +13,6 @@ import {
 } from "lucide-react";
 import Navbar from "./components/Navbar";
 import ProjectCard from "./components/ProjectCard";
-import TimelineItem from "./components/TimelineItem";
 import ResumeButton from "./components/ResumeButton";
 import SkillCard from "./components/SkillCard";
 import customerImage from "./assets/murima_header.png";
