@@ -50,7 +50,7 @@ function App() {
     {
       title: "Kenyan Government Debt and Revenue Analysis",
       description:
-        "t reveals the relationship between Government debt and revenue over a specific period. It includes correlation studies, growth rate comparisons, and examination of debt-to-revenue ratios. The goal was to assess sustainability of Government finances by analyzing trends in domestic and external debt relative to revenue, including external grants.",
+        "It reveals the relationship between Government debt and revenue over a specific period. It includes correlation studies, growth rate comparisons, and examination of debt-to-revenue ratios. The goal was to assess sustainability of Government finances by analyzing trends in domestic and external debt relative to revenue, including external grants.",
       image: revenuedebtImage,
       technologies: ["Data Collection & Management", "Correlation Analysis", "Report Writing"],
       githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
@@ -63,8 +63,8 @@ function App() {
       image: watertanksImage,
       technologies: [
         "Web Scraping",
-        "Exploratory Data Analysis (EDA)",
-        " Hypothesis Testing"
+        " Hypothesis Testing",
+        "Exploratory Data Analysis (EDA)"
       ],
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
       liveUrl: "",
