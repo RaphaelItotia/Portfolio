@@ -43,7 +43,7 @@ function App() {
       title: "Customer Satisfaction Analysis",
       description: "In this project, I used hypothesis testing (paired t-test) to determine if there is a statistically significant improvement in customer satisfaction after the service improvements at Murima Superstores.",
       image: customerImage,
-      technologies: ["Statistical Analysis (Hypothesis Testing)", "Python Programming", "Bootstrap5", "Strapi CMS"],
+      technologies: ["Statistical Analysis (Hypothesis Testing)", "Python Programming"],
       githubUrl: "https://github.com/RaphaelItotia/Customer_Satisfaction_Analysis",
       liveUrl: "",
     },
