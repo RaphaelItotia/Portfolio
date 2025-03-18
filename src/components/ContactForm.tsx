@@ -33,17 +33,17 @@ const ContactForm = () => {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
-          to_name: "Harrison Itotia",
+          to_name: "Raphael Itotia",
         },
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
 
       if (result.status === 200) {
-        toast.success("Message sent successfully!");
+        toast.success("Sent successfully!");
         setFormData({ name: "", email: "", message: "" });
       }
     } catch (error) {
-      toast.error("Failed to send message. Please try again.");
+      toast.error("Oops! Please try again.");
       console.log(error);
       
     } finally {
