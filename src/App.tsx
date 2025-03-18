@@ -9,7 +9,6 @@ import {
   Globe,
   Server,
   Shield,
-  PenTool,
 } from "lucide-react";
 import Navbar from "./components/Navbar";
 import ProjectCard from "./components/ProjectCard";
