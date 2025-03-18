@@ -84,17 +84,7 @@ function App() {
       liveUrl: "",
     }
   ];
-/*
-  const experiences = [
-    {
-      timeRange: "December 2023 - Present",
-      title: "Technical Writer",
-      company: "Hyperskill",
-      description:
-        "Collaborate with experts to create accurate and engaging technical content for the following topics; Statistics, Nodejs, Frontend topics (HTML, CSS, Javascript, Reactjs), Coding with AI topics(OpenAI API). Utilize content management systems (CMS) to upload and manage technical content. Review and correct content written by other topic authors to ensure it maintains the hyperskill style hence reaching and helping more learners on the platform.",
-    },
-  ]; 
-*/
+
   const skillCategories = [
     {
       title: "Frontend Development",
