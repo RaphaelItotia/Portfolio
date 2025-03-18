@@ -72,7 +72,7 @@ function App() {
       liveUrl: "https://harit-hotel.vercel.app/",
     },
   ];
-
+/*
   const experiences = [
     {
       timeRange: "December 2023 - Present",
@@ -89,7 +89,7 @@ function App() {
         "Lead the development of a web-based Human Resource management system with the following modules; payroll, time and attendance, leave, performance and appraisal. Develop a responsive user interface using ReactJS, redux and TypeScript. Build back-end infrastructure with C# and .NET framework. Design, create and integrate MySQL database for secure data management on the web application.",
     },
   ]; 
-
+*/
   const skillCategories = [
     {
       title: "Frontend Development",
