@@ -42,7 +42,7 @@ function App() {
     {
       title: "Beyond My Tribe",
       description: "A website for Beyond My Tribe organization",
-      image: beyondMyTribeImage,
+      image: customerImage,
       technologies: ["Javascript", "jQuery", "Bootstrap5", "Strapi CMS"],
       githubUrl: "https://www.beyondmytribe.org/",
       liveUrl: "https://www.beyondmytribe.org/",
@@ -51,7 +51,7 @@ function App() {
       title: "Real Estate",
       description:
         "A real estate website enabling property owners to list their properties for sale or tenants to rent.",
-      image: realEstateImage,
+      image: revenuedebtImage,
       technologies: ["React", "TailwindCSS", "firebase"],
       githubUrl: "https://github.com/ItotiaHarrison/Real-Estate-app",
       liveUrl: "https://real-estate-gamma-ten.vercel.app/",
@@ -60,7 +60,7 @@ function App() {
       title: "Harit Hotel",
       description:
         "A hotel/Airbnb management web application with real-time updates on available rooms and bookings",
-      image: haritHotelImage,
+      image: watertanksImage,
       technologies: [
         "Nextjs",
         "Typescript",
