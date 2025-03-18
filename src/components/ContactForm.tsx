@@ -27,18 +27,16 @@ const ContactForm = () => {
 
     try {
       const result = await emailjs.send(
-        "contact_service", 
-        "contact_form",
+        "service_e9toj78", 
+        "template_jd4heaf",
         {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
           to_name: "Raphael Itotia",
         },
-        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
+        "Rh6GdOUavPEAqnvZp"
       );
-
-   console.log("EmailJS Response:", result);
       
       if (result.status === 200) {
         toast.success("Sent successfully!");
