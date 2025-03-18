@@ -115,26 +115,12 @@ function App() {
 
   const testimonials = [
     {
-      name: "Lawrence Adam",
-      role: "Executive Director at Beyond My Tribe",
-      image: humanImage,
-      content:
-        "Harrison's technical expertise and attention to detail transformed our project. He consistently delivered beyond expectations in the building of our website.",
-    },
-    {
       name: "Peter Mbui",
       role: "Software Developer at Alis",
       image: humanImage,
       content:
         "He is one of the most talented developers I've worked with. His ability to solve complex problems while maintaining clean code is remarkable.",
-    },
-    {
-      name: "Pamela Ombima",
-      role: "Assistant Director Youth Development Officer",
-      image: humanImage,
-      content:
-        "An exceptional developer who brings both technical excellence and creative solutions to every project he touch.",
-    },
+    }
   ];
 
   return (
