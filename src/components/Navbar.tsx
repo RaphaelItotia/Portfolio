@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-            <span className="ml-2 text-xl font-bold text-gray-900">Harrison Itotia</span>
+            <span className="ml-2 text-xl font-bold text-gray-900">Raphael Itotia</span>
           </div>
           
           <div className="hidden md:block">
