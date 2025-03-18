@@ -48,28 +48,26 @@ function App() {
       liveUrl: "",
     },
     {
-      title: "Real Estate",
+      title: "Kenyan Government Debt and Revenue Analysis",
       description:
-        "A real estate website enabling property owners to list their properties for sale or tenants to rent.",
+        "t reveals the relationship between Government debt and revenue over a specific period. It includes correlation studies, growth rate comparisons, and examination of debt-to-revenue ratios. The goal was to assess sustainability of Government finances by analyzing trends in domestic and external debt relative to revenue, including external grants.",
       image: revenuedebtImage,
-      technologies: ["React", "TailwindCSS", "firebase"],
-      githubUrl: "https://github.com/ItotiaHarrison/Real-Estate-app",
-      liveUrl: "https://real-estate-gamma-ten.vercel.app/",
+      technologies: ["Data Collection & Management", "Correlation Analysis", "Report Writing"],
+      githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
+      liveUrl: "",
     },
     {
-      title: "Harit Hotel",
+      title: "Analysis of Water Tanks Prices in Kenya",
       description:
-        "A hotel/Airbnb management web application with real-time updates on available rooms and bookings",
+        "In this project, the objective was to understand the pricing patterns of water tanks in Kenya across different brands and sizes. This insights can help consumers make informed purchasing decisions.",
       image: watertanksImage,
       technologies: [
-        "Nextjs",
-        "Typescript",
-        "Tailwind CSS",
-        "Sanity CMS",
-        "Google Authenticator",
+        "Web Scraping",
+        "Exploratory Data Analysis (EDA)",
+        " Hypothesis Testing"
       ],
-      githubUrl: "https://github.com/ItotiaHarrison/Harit-Hotel",
-      liveUrl: "https://harit-hotel.vercel.app/",
+      githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
+      liveUrl: "",
     },
   ];
 
