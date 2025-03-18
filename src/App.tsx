@@ -72,7 +72,7 @@ function App() {
       liveUrl: "https://harit-hotel.vercel.app/",
     },
   ];
-/*
+
   const experiences = [
     {
       timeRange: "December 2023 - Present",
@@ -88,22 +88,8 @@ function App() {
       description:
         "Lead the development of a web-based Human Resource management system with the following modules; payroll, time and attendance, leave, performance and appraisal. Develop a responsive user interface using ReactJS, redux and TypeScript. Build back-end infrastructure with C# and .NET framework. Design, create and integrate MySQL database for secure data management on the web application.",
     },
-    {
-      timeRange: "April 2023 - December 2023",
-      title: "Full Stack Developer",
-      company: "Beyond My Tribe",
-      description:
-        "Integrated a payment system that improved member registration and collecting donations. Created user-friendly forms, enhancing the user interations on the website.Implemented Google Analytics 4 for digital strategy optimization. Built a content management system using Strapi. Integrated social media platforms to attract interactions on the organisation post about their activities.",
-    },
-    {
-      timeRange: "August 2022 - April 2023",
-      title: "Software Developer Intern",
-      company: "iTalanta",
-      description:
-        "Integrated OAuth for user authentication in the Elewa project. Developed various web pages for a learning management system using Angular.js. Participated in code reviews and discussions on new feature implementations.",
-    },
   ]; 
-*/
+
   const skillCategories = [
     {
       title: "Frontend Development",
