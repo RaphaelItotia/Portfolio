@@ -27,15 +27,15 @@ const ContactForm = () => {
 
     try {
       const result = await emailjs.send(
-        "service_e9toj78", 
-        "template_jd4heaf",
+        import.meta.env.VITE_EMAILJS_SERVICE_ID, // Use an environment variable
+        import.meta.env.VITE_EMAILJS_TEMPLATE_ID, // Use an environment variable
         {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
           to_name: "Raphael Itotia",
         },
-        "Rh6GdOUavPEAqnvZp"
+        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
       
       if (result.status === 200) {
