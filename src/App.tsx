@@ -24,7 +24,7 @@ import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 import humanImage from "./assets/human.png"
 import ContactForm from "./components/ContactForm";
-// import profilePicture from "./assets/itotias-pic.jpeg" 
+import profilePicture from "./assets/IMG_20190908_115819_0.jpg" 
 
 function App() {
   const titles = [
@@ -209,21 +209,21 @@ function App() {
             </p>
             <div className="flex justify-center gap-4 mb-12">
               <a
-                href="https://github.com/ItotiaHarrison"
+                href="https://github.com/RaphaelItotia"
                 target="_blank"
                 className="text-gray-200 hover:text-indigo-400 transition-colors"
               >
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="https://www.linkedin.com/in/harrison-itotia/"
+                href="https://www.linkedin.com/in/itotia-g-raphael"
                 target="_blank"
                 className="text-gray-200 hover:text-indigo-400 transition-colors"
               >
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="mailto:harrisonitotia@gmail.com"
+                href="mailto:raphaelitotia@gmail.com"
                 target="_blank"
                 className="text-gray-200 hover:text-indigo-400 transition-colors"
               >
@@ -272,7 +272,7 @@ function App() {
             <div className="relative">
               <img
                 src={profilePicture}
-                alt="Harrison Itotia"
+                alt="Raphael Itotia"
                 className="rounded-lg shadow-lg"
               />
             </div>
@@ -364,7 +364,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center mb-4 md:mb-0">
               <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-              <span className="ml-2 text-xl font-bold">Harrison Itotia</span>
+              <span className="ml-2 text-xl font-bold">Raphael Itotia</span>
             </div>
             <div className="flex space-x-6">
               <a
