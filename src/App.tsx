@@ -72,7 +72,7 @@ function App() {
       liveUrl: "https://harit-hotel.vercel.app/",
     },
   ];
-
+/*
   const experiences = [
     {
       timeRange: "December 2023 - Present",
@@ -102,8 +102,8 @@ function App() {
       description:
         "Integrated OAuth for user authentication in the Elewa project. Developed various web pages for a learning management system using Angular.js. Participated in code reviews and discussions on new feature implementations.",
     },
-  ];
-
+  ]; 
+*/
   const skillCategories = [
     {
       title: "Frontend Development",
