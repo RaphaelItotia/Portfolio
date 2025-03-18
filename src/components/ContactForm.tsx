@@ -38,6 +38,8 @@ const ContactForm = () => {
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
 
+   console.log("EmailJS Response:", result);
+      
       if (result.status === 200) {
         toast.success("Sent successfully!");
         setFormData({ name: "", email: "", message: "" });
