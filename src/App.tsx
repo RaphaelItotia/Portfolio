@@ -30,12 +30,12 @@ import profilePicture from "./assets/IMG_20190908_115819_0.jpg"
 function App() {
   const titles = [
     {
-      text: "Full Stack Developer",
-      description: "Building beautiful, functional, and scalable web applications with modern technologies"
+      text: "Data Analyst",
+      description: "Turning raw data into meaningful insights that drive informed decision-making"
     },
     {
-      text: "Technical Writer",
-      description: "Crafting clear, concise, and comprehensive documentation for developers and users"
+      text: "Business Intelligence Analyst",
+      description: "Designing data-driven dashboards and reports to help organizations monitor key metrics, identify trends, and optimize performance"
     }
   ];
 
