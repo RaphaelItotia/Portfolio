@@ -84,7 +84,7 @@ function App() {
       liveUrl: "",
     }
   ];
-
+/*
   const experiences = [
     {
       timeRange: "December 2023 - Present",
@@ -94,7 +94,7 @@ function App() {
         "Collaborate with experts to create accurate and engaging technical content for the following topics; Statistics, Nodejs, Frontend topics (HTML, CSS, Javascript, Reactjs), Coding with AI topics(OpenAI API). Utilize content management systems (CMS) to upload and manage technical content. Review and correct content written by other topic authors to ensure it maintains the hyperskill style hence reaching and helping more learners on the platform.",
     },
   ]; 
-
+*/
   const skillCategories = [
     {
       title: "Frontend Development",
@@ -283,19 +283,7 @@ function App() {
         </div>
       </section>
 
-      {/* Experience Section */}
-      <section id="experience" className="py-20 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">
-            Experience
-          </h2>
-          <div className="max-w-3xl mx-auto">
-            {experiences.map((experience, index) => (
-              <TimelineItem key={index} {...experience} />
-            ))}
-          </div>
-        </div>
-      </section>
+
 
       {/* Projects Section */}
       <section id="projects" className="py-20 bg-white">
