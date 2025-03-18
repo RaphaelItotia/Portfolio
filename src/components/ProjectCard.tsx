@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Github } from 'lucide-react';
+import { FileText, Github } from 'lucide-react';
 
 interface ProjectCardProps {
   title: string;
@@ -56,7 +56,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-600 hover:text-indigo-600 transition-colors"
           >
-            <ExternalLink className="h-5 w-5" />
+            <FileText className="h-5 w-5" />
             <span>Report</span>
           </a>
         </div>
