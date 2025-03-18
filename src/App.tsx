@@ -85,51 +85,33 @@ function App() {
 
   const skillCategories = [
     {
-      title: "Frontend Development",
+      title: "Data Analytics",
       icon: Globe,
       skills: [
-        "JavaScript",
-        "React",
-        "TypeScript",
-        "Next.js",
-        "TailwindCSS",
-        "Bootstrap5",
-        "Redux",
-        "HTML5",
-        "CSS3",
+        "Python",
+        "SQL",
+        "Excel",
+        "Power BI"
       ],
     },
     {
-      title: "Backend Development",
+      title: "Data Science & Machine Learning",
       icon: Server,
       skills: [
-        "C#",
-        ".NET",
-        "Python",
-        "Django",
-        "Ruby",
-        "Ruby on Rails",
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB",
-        "REST APIs",
-        "firebase",
-        "Strapi CMS",
-        "Sanity CMS",
+        "Pandas",
+        "Numpy",
+        "Scikit-learn",
+        "Matplotlib & Seaborn",
+        "Statistics"
       ],
     },
     {
-      title: "DevOps & Tools",
+      title: "Business Intelligence & Reporting",
       icon: Shield,
       skills: [
-        "Git",
-        "CI/CD",
-        "Github",
-        "Windows",
-        "Linux",
-        "Cypress",
-        "Jest",
-        "Google Analytics",
+        "Dashboard Design",
+        "Trend Analysis",
+        "Business Metrics & KPIs"
       ],
     },
   ];
