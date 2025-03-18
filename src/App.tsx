@@ -3,12 +3,9 @@ import {
   Linkedin,
   Mail,
   ArrowDown,
-  Code2,
-  Database,
-  Layout,
-  Globe,
-  Server,
-  Shield,
+  LineChart,
+  Presentation,
+  Brain,
 } from "lucide-react";
 import Navbar from "./components/Navbar";
 import ProjectCard from "./components/ProjectCard";
@@ -86,7 +83,7 @@ function App() {
   const skillCategories = [
     {
       title: "Data Analytics",
-      icon: Globe,
+      icon: LineChart,
       skills: [
         "Python",
         "SQL",
@@ -96,7 +93,7 @@ function App() {
     },
     {
       title: "Data Science & Machine Learning",
-      icon: Server,
+      icon: Brain,
       skills: [
         "Pandas",
         "Numpy",
@@ -107,7 +104,7 @@ function App() {
     },
     {
       title: "Business Intelligence & Reporting",
-      icon: Shield,
+      icon: Presentation,
       skills: [
         "Dashboard Design",
         "Trend Analysis",
@@ -209,15 +206,15 @@ function App() {
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
-                  <Code2 className="h-5 w-5 text-indigo-600" />
+                  <LineChart className="h-5 w-5 text-indigo-600" />
                   <span>Data Analytics</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Database className="h-5 w-5 text-indigo-600" />
+                  <Presentation className="h-5 w-5 text-indigo-600" />
                   <span>Business Intelligence</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Layout className="h-5 w-5 text-indigo-600" />
+                  <Brain className="h-5 w-5 text-indigo-600" />
                   <span>AI-powered Data Solutions</span>
                 </div>
               </div>
@@ -310,7 +307,7 @@ function App() {
             </div>
             <div className="flex space-x-6">
               <a
-                href="https://github.com/ItotiaHarrison"
+                href="https://github.com/RaphaelItotia"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-indigo-400 transition-colors"
@@ -318,7 +315,7 @@ function App() {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="https://www.linkedin.com/in/harrison-itotia/"
+                href="https://www.linkedin.com/in/itotia-g-raphael"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-indigo-400 transition-colors"
@@ -326,7 +323,7 @@ function App() {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="mailto:harrisonitotia@gmail.com"
+                href="mailto:raphaelitotia@gmail.com"
                 className="hover:text-indigo-400 transition-colors"
               >
                 <Mail className="h-6 w-6" />
