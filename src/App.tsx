@@ -3,7 +3,7 @@ import {
   Linkedin,
   Mail,
   ArrowDown,
-  LineChart,
+  LineChart, 
   Presentation,
   Brain,
 } from "lucide-react";
