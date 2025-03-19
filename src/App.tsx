@@ -121,7 +121,7 @@ function App() {
       role: "Software Developer at Alis",
       image: maleImage,
       content:
-        "He is one of the most talented developers I've worked with. His ability to solve complex problems while maintaining clean code is remarkable.",
+        "He is one of the most talented analysts I've worked with. His ability to solve complex problems while maintaining clean code is remarkable.",
     },
     {
       name: "Judith Bitengo",
