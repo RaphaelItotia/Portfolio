@@ -19,6 +19,7 @@ import logo from "./assets/logo.png";
 import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 import humanImage from "./assets/human.png"
+import femaleImage from "./assets/female.png"
 import ContactForm from "./components/ContactForm";
 import profilePicture from "./assets/IMG_20190908_115819_0.jpg" 
 
@@ -121,6 +122,13 @@ function App() {
       image: humanImage,
       content:
         "He is one of the most talented developers I've worked with. His ability to solve complex problems while maintaining clean code is remarkable.",
+    },
+    {
+      name: "Judith Bitengo",
+      role: "Revenue Officer at County Govt of Nakuru",
+      image: femaleImage,
+      content:
+        "Raphael Itotia demonstrated strong analytical skills, attention to detail, and proficiency in data analysis and visualization using Excel, Power BI, and SQL. He was proactive, eager to learn, and a valuable team player.",
     }
   ];
 
