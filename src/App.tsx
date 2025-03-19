@@ -18,7 +18,7 @@ import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
 import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
-import humanImage from "./assets/human.png"
+import maleImage from "./assets/male.png"
 import femaleImage from "./assets/female.png"
 import ContactForm from "./components/ContactForm";
 import profilePicture from "./assets/IMG_20190908_115819_0.jpg" 
@@ -119,7 +119,7 @@ function App() {
     {
       name: "Peter Mbui",
       role: "Software Developer at Alis",
-      image: humanImage,
+      image: maleImage,
       content:
         "He is one of the most talented developers I've worked with. His ability to solve complex problems while maintaining clean code is remarkable.",
     },
