@@ -140,7 +140,7 @@ function App() {
       <section id="home" className="min-h-screen pt-16 flex items-center">
         <div className="absolute inset-0 z-0">
           <img
-            src="./src/assets/graph.jpeg&auto=format&fit=crop&w=1920&q=80"
+            src="./assets/graph.jpeg&auto=format&fit=crop&w=1920&q=80"
             alt="Hero background"
             className="w-full h-full object-cover"
           />
