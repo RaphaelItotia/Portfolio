@@ -39,7 +39,7 @@ function App() {
       title: "Customer Satisfaction Analysis",
       description: "In this project, I used hypothesis testing (paired t-test) to determine if there is a statistically significant improvement in customer satisfaction after the service improvements at Murima Superstores.",
       image: customerImage,
-      technologies: ["Statistical Analysis (Hypothesis Testing)", "Python Programming"],
+      technologies: ["Statistical Analysis (Hypothesis Testing)", "Python"],
       githubUrl: "https://github.com/RaphaelItotia/Customer_Satisfaction_Analysis",
       liveUrl: "",
     },
@@ -48,7 +48,7 @@ function App() {
       description:
         "It reveals the relationship between Government debt and revenue over a specific period. It includes correlation studies, growth rate comparisons, and examination of debt-to-revenue ratios. The goal was to assess sustainability of Government finances by analyzing trends in domestic and external debt relative to revenue, including external grants.",
       image: revenuedebtImage,
-      technologies: ["Data Collection & Management", "Correlation Analysis", "Report Writing"],
+      technologies: ["Data Collection & Management", "Correlation Analysis", "Report Writing", "MS Excel"],
       githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
       liveUrl: "",
     },
@@ -60,7 +60,8 @@ function App() {
       technologies: [
         "Web Scraping",
         "Hypothesis Testing",
-        "Exploratory Data Analysis (EDA)"
+        "Exploratory Data Analysis (EDA)",
+        "Python"
       ],
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
       liveUrl: "",
