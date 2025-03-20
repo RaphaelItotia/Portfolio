@@ -16,7 +16,7 @@ import revenuedebtImage from "./assets/Thumbnail.png";
 import watertanksImage from "./assets/Header_Tanks.png";
 import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
-import TestimonialCard from "./components/TestimonialCard";
+//import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 import maleImage from "./assets/male.png"
 import femaleImage from "./assets/female.png"
@@ -114,7 +114,7 @@ function App() {
       ],
     },
   ];
-
+/*
   const testimonials = [
     {
       name: "Peter Mbui",
@@ -131,7 +131,7 @@ function App() {
         "Raphael Itotia demonstrated strong analytical skills, attention to detail, and proficiency in data analysis and visualization using Excel, Power BI, and SQL. He was proactive, eager to learn, and a valuable team player.",
     }
   ];
-
+*/
   return (
     <div className="bg-gray-50">
       <Navbar />
