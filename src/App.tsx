@@ -18,8 +18,8 @@ import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
 //import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
-import maleImage from "./assets/male.png"
-import femaleImage from "./assets/female.png"
+//import maleImage from "./assets/male.png"
+//import femaleImage from "./assets/female.png"
 import ContactForm from "./components/ContactForm";
 import profilePicture from "./assets/IMG_20190908_115819_0.jpg" 
 
