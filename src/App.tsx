@@ -42,7 +42,7 @@ function App() {
       image: customerImage,
       technologies: ["Statistical Analysis (Hypothesis Testing)", "Python"],
       githubUrl: "https://github.com/RaphaelItotia/Customer_Satisfaction_Analysis",
-      liveUrl: "",
+      liveUrl: "https://drive.google.com/file/d/1-qF0HJIwtBokpWTAyyJfXAiz2AJsH_03/view?usp=drivesdk",
     },
     {
       title: "Kenyan Government Debt and Revenue Analysis",
