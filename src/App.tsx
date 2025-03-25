@@ -51,7 +51,7 @@ function App() {
       image: revenuedebtImage,
       technologies: ["Data Collection & Management", "Correlation Analysis", "Report Writing", "MS Excel"],
       githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
-      liveUrl: "",
+      liveUrl: "https://docs.google.com/presentation/d/11bjGyjBBWQfsyWfmaEtKz0uV_P3jWa5-/edit?usp=drivesdk&ouid=118121594836737568751&rtpof=true&sd=true",
     },
     {
       title: "Analysis of Water Tanks Prices in Kenya",
