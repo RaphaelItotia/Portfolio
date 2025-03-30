@@ -65,7 +65,7 @@ function App() {
         "Python"
       ],
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
-      liveUrl: "",
+     // liveUrl: "",
     },
     {
       title: "Kenyan YouTubers Analysis",
@@ -78,7 +78,7 @@ function App() {
         "Data Cleaning & Transformation"
       ],
       githubUrl: "https://github.com/RaphaelItotia/Kenyan_Youtubers_Analysis",
-      liveUrl: "",
+     // liveUrl: "",
     }
   ];
 
