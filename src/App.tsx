@@ -7,7 +7,7 @@ import {
   Presentation,
   Brain,
 } from "lucide-react";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar"; 
 import ProjectCard from "./components/ProjectCard";
 import ResumeButton from "./components/ResumeButton";
 import SkillCard from "./components/SkillCard";
