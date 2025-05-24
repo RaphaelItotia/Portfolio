@@ -7,7 +7,7 @@ interface ProjectCardProps {
   image: string;
   technologies: string[];
   githubUrl: string;
-  liveUrl: string;
+  liveUrl?: string;
 }
 
 const ProjectCard: React.FC<ProjectCardProps> = ({
