@@ -16,7 +16,7 @@ import revenuedebtImage from "./assets/Thumbnail.png";
 import watertanksImage from "./assets/Header_Tanks.png";
 import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
-import officeImage from "";
+import officeImage from "./assets/Office.png";
 //import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 //import maleImage from "./assets/male.png"
