@@ -31,8 +31,8 @@ function App() {
       description: "Turning raw data into meaningful insights that drive informed decision-making"
     },
     {
-      text: "Computer Applications and AI Integration",
-      description: "Exploring how artificial intelligence can be embedded into everyday software applications to enhance productivity, automation, and decision-making."
+      text: "Computer Applications & AI Integration",
+      description: "Exploring how AI can be embedded into everyday software applications to enhance productivity, automation, and decision-making."
     }
   ];
 
