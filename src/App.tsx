@@ -43,7 +43,7 @@ function App() {
       image: officeImage,
       technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration"],
       githubUrl: "https://github.com/RaphaelItotia/Office_Digital_Organizer",
-      liveUrl: "",
+      liveUrl: "https://raphaelitotia.vercel.app/",
     },
     {
       title: "Customer Satisfaction Analysis",
