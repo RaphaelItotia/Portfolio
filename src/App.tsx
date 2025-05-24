@@ -13,7 +13,7 @@ import ResumeButton from "./components/ResumeButton";
 import SkillCard from "./components/SkillCard";
 import customerImage from "./assets/murima_header.png";
 import revenuedebtImage from "./assets/Thumbnail.png";
-import watertanksImage from "./assets/Header_Tanks.png";
+//import watertanksImage from "./assets/Header_Tanks.png";
 import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
 import officeImage from "./assets/Office.png";
