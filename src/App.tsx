@@ -16,6 +16,7 @@ import revenuedebtImage from "./assets/Thumbnail.png";
 import watertanksImage from "./assets/Header_Tanks.png";
 import kenyaImage from "./assets/Kenya.png";
 import logo from "./assets/logo.png";
+import officeImage from "";
 //import TestimonialCard from "./components/TestimonialCard";
 import AnimatedText from "./components/AnimatedText";
 //import maleImage from "./assets/male.png"
@@ -36,6 +37,14 @@ function App() {
   ];
 
   const projects = [
+     {
+      title: "Office Organizer",
+      description: "An automated leave and attendance management system built using Google Forms, Sheets, Calendar, and Apps Script. It streamlines leave requests, sends approval emails, and syncs approved dates with Google Calendar for efficient HR operations.",
+      image: officeImage,
+      technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration"],
+      githubUrl: "https://github.com/RaphaelItotia/Office_Digital_Organizer",
+      liveUrl: "",
+    },
     {
       title: "Customer Satisfaction Analysis",
       description: "In this project, I used hypothesis testing (paired t-test) to determine if there is a statistically significant improvement in customer satisfaction after the service improvements at Murima Superstores.",
@@ -53,6 +62,7 @@ function App() {
       githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
       liveUrl: "https://docs.google.com/presentation/d/11bjGyjBBWQfsyWfmaEtKz0uV_P3jWa5-/edit?usp=drivesdk&ouid=118121594836737568751&rtpof=true&sd=true",
     },
+    /*
     {
       title: "Analysis of Water Tanks Prices in Kenya",
       description:
@@ -66,7 +76,8 @@ function App() {
       ],
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
      // liveUrl: "",
-    },
+    }
+    */,
     {
       title: "Kenyan YouTubers Analysis",
       description:
