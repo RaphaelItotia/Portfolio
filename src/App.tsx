@@ -77,7 +77,7 @@ function App() {
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
      // liveUrl: "",
     }
-    */,
+    */
     {
       title: "Kenyan YouTubers Analysis",
       description:
