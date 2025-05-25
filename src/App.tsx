@@ -6,6 +6,7 @@ import {
   LineChart, 
   Presentation,
   Brain,
+  Computer,
 } from "lucide-react";
 import Navbar from "./components/Navbar"; 
 import ProjectCard from "./components/ProjectCard";
@@ -28,7 +29,7 @@ function App() {
   const titles = [
     {
       text: "Data Analyst",
-      description: "Turning raw data into meaningful insights that drive informed decision-making"
+      description: "Turning raw data into meaningful insights that drive informed decision-making."
     },
     {
       text: "Computer Applications & AI Integration",
@@ -102,6 +103,14 @@ function App() {
         "SQL",
         "Excel",
         "Power BI"
+      ],
+    },
+    {
+      title: "Computer Applications and AI Integration",
+      icon: Computer,
+      skills: [
+        "Google Workspace AI",
+        "VBA"
       ],
     },
     {
