@@ -232,6 +232,10 @@ function App() {
                   <Brain className="h-5 w-5 text-indigo-600" />
                   <span>AI-powered Data Solutions</span>
                 </div>
+                <div className="flex items-center gap-2">
+                  <Computer className="h-5 w-5 text-indigo-600" />
+                  <span>Computer Applications for Business Efficiency</span>
+                </div>
               </div>
               <ResumeButton />
             </div>
