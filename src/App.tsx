@@ -114,6 +114,15 @@ function App() {
       ],
     },
     {
+      title: "Business Intelligence & Reporting",
+      icon: Presentation,
+      skills: [
+        "Dashboard Design",
+        "Trend Analysis",
+        "Business Metrics & KPIs"
+      ],
+    },
+    {
       title: "Data Science & Machine Learning",
       icon: Brain,
       skills: [
@@ -123,16 +132,7 @@ function App() {
         "Matplotlib & Seaborn",
         "Statistics"
       ],
-    },
-    {
-      title: "Business Intelligence & Reporting",
-      icon: Presentation,
-      skills: [
-        "Dashboard Design",
-        "Trend Analysis",
-        "Business Metrics & KPIs"
-      ],
-    },
+    }
   ];
 /*
   const testimonials = [
