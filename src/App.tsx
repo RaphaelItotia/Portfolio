@@ -42,7 +42,7 @@ function App() {
       title: "Office Organizer",
       description: "An automated leave and attendance management system built using Google Forms, Sheets, Calendar, and Apps Script. It streamlines leave requests, sends approval emails, and syncs approved dates with Google Calendar for efficient HR operations.",
       image: officeImage,
-      technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration"],
+      technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration", “Automation"],
       githubUrl: "https://github.com/RaphaelItotia/Office_Digital_Organizer",
       // liveUrl: "",
     },
