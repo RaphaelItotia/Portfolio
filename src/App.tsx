@@ -42,7 +42,7 @@ function App() {
       title: "Office Organizer",
       description: "An automated leave and attendance management system built using Google Forms, Sheets, Calendar, and Apps Script. It streamlines leave requests, sends approval emails, and syncs approved dates with Google Calendar for efficient HR operations.",
       image: officeImage,
-      technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration", “Automation"],
+      technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration", "Automation"],
       githubUrl: "https://github.com/RaphaelItotia/Office_Digital_Organizer",
       // liveUrl: "",
     },
@@ -217,7 +217,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-gray-600 mb-6">
-                I'm a data analyst with expertise in transforming complex datasets into actionable insights. With experience in data visualization, business intelligence, and statistical analysis, I specialize in helping businesses make data-driven decisions.
+                  I am a data analyst with a strong foundation in data analytics, computer applications, and AI integration. I specialize in transforming complex datasets into actionable insights through data visualization, statistical analysis, and business intelligence tools. My work bridges traditional data methods with AI-powered solutions to enhance decision-making, automate processes, and deliver deeper business value.
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
