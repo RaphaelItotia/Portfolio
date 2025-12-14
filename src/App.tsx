@@ -188,13 +188,14 @@ function App() {
               >
                 <Github className="h-6 w-6" />
               </a>
+              {/*
               <a
                 href="https://www.linkedin.com/in/itotia-g-raphael"
                 target="_blank"
                 className="text-gray-200 hover:text-indigo-400 transition-colors"
               >
                 <Linkedin className="h-6 w-6" />
-              </a>
+              </a> */}
               <a
                 href="mailto:raphaelitotia@gmail.com"
                 target="_blank"
