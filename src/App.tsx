@@ -218,7 +218,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-gray-600 mb-6">
-                  I am a data analyst with a strong foundation in data analytics, computer applications, and AI integration. I specialize in transforming complex datasets into actionable insights through data visualization, statistical analysis, and business intelligence tools. My skills bridge traditional data methods with AI-powered solutions to enhance decision-making, automate processes, and deliver deeper business value.
+                  I work with computer applications and AI-enabled tools to improve efficiency, streamline workflows, and support digital operations. My focus is on practical technology use—helping users get real value from everyday software, documentation systems, and AI-powered productivity tools.
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
