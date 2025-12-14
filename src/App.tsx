@@ -1,6 +1,6 @@
 import {
   Github,
-  Linkedin,
+  {/* Linkedin */},
   Mail,
   ArrowDown,
   LineChart, 
