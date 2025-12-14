@@ -28,12 +28,12 @@ import profilePicture from "./assets/IMG_20190908_115819_0.jpg"
 function App() {
   const titles = [
     {
-      text: "Data Analyst",
-      description: "Turning raw data into meaningful insights that drive informed decision-making."
+      text: "Computer Applications & AI Integration",
+      description: "Applying AI tools to everyday software applications to improve productivity and efficiency."
     },
     {
-      text: "Computer Applications & AI Integration",
-      description: "Exploring how AI can be embedded into everyday software applications to enhance productivity, automation, and decision-making."
+      text: "Computer Applications & Digital Systems Support",
+      description: "Supporting digital workflows, documentation, system use, and AI-assisted productivity tools."
     }
   ];
 
