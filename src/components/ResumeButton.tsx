@@ -2,7 +2,7 @@ import { Download } from 'lucide-react';
 
 const ResumeButton = () => {
   const handleDownload = () => {
-    const pdfUrl = 'https://drive.google.com/file/d/1zt0k-qbbpWdVDbAvq7-epepMeJ4gJ2P8/view?usp=drive_link';
+    const pdfUrl = '';
     window.open(pdfUrl, '_blank');
   };
 
