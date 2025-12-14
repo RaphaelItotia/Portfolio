@@ -226,16 +226,16 @@ function App() {
                   <span>ICT & Systems Support</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Presentation className="h-5 w-5 text-indigo-600" />
-                  <span>Business Intelligence</span>
+                  <Sparkles className="h-5 w-5 text-indigo-600" />
+                  <span>Digital Productivity Tools</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Brain className="h-5 w-5 text-indigo-600" />
-                  <span>AI-powered Data Solutions</span>
+                  <span>AI-powered Solutions</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Computer className="h-5 w-5 text-indigo-600" />
-                  <span>Computer Applications in Business</span>
+                  <span>Computer Applications Support</span>
                 </div>
               </div>
               <ResumeButton />
