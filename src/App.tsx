@@ -28,11 +28,11 @@ import profilePicture from "./assets/IMG_20190908_115819_0.jpg"
 function App() {
   const titles = [
     {
-      text: "Computer Applications & AI Integration",
+      text: "AI Integration",
       description: "Applying AI tools to everyday software applications to improve productivity and efficiency."
     },
     {
-      text: "Computer Applications & Digital Systems Support",
+      text: "Digital Systems Support",
       description: "Supporting digital workflows, documentation, system use, and AI-assisted productivity tools."
     }
   ];
