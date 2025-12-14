@@ -3,7 +3,7 @@ import {
   /*Linkedin*/
   Mail,
   ArrowDown,
-  Tools, 
+  Wrench, 
   Sparkles,
   Brain,
   Computer,
@@ -97,7 +97,7 @@ function App() {
   const skillCategories = [
     {
       title: "Data Analytics",
-      icon: LineChart,
+      icon: Wrench,
       skills: [
         "Python",
         "SQL",
@@ -115,7 +115,7 @@ function App() {
     },
     {
       title: "Business Intelligence & Reporting",
-      icon: Presentation,
+      icon: Sparkles,
       skills: [
         "Dashboard Design",
         "Trend Analysis",
@@ -222,7 +222,7 @@ function App() {
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
-                  <Tools className="h-5 w-5 text-indigo-600" />
+                  <Wrench className="h-5 w-5 text-indigo-600" />
                   <span>ICT & Systems Support</span>
                 </div>
                 <div className="flex items-center gap-2">
