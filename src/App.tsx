@@ -91,9 +91,9 @@ function App() {
       ],
       githubUrl: "https://github.com/RaphaelItotia/Kenyan_Youtubers_Analysis",
      // liveUrl: "",
-    }
+    } */
   ];
-   */
+   
   const skillCategories = [
     {
       title: "ICT & Systems Support",
