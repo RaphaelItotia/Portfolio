@@ -45,7 +45,7 @@ function App() {
       technologies: ["Google Apps Script", "HR Workflow", "Calendar Integration", "Automation"],
       githubUrl: "https://github.com/RaphaelItotia/Office_Digital_Organizer",
       // liveUrl: "",
-    },
+    } /*,
     {
       title: "Customer Satisfaction Analysis",
       description: "In this project, I used hypothesis testing (paired t-test) to determine if there is a statistically significant improvement in customer satisfaction after the service improvements at Murima Superstores.",
@@ -63,7 +63,7 @@ function App() {
       githubUrl: "https://github.com/RaphaelItotia/Kenyan-Government-Debt-and-Revenue-Analysis",
       liveUrl: "https://docs.google.com/presentation/d/11bjGyjBBWQfsyWfmaEtKz0uV_P3jWa5-/edit?usp=drivesdk&ouid=118121594836737568751&rtpof=true&sd=true",
     },
-    /*
+    
     {
       title: "Analysis of Water Tanks Prices in Kenya",
       description:
@@ -78,7 +78,7 @@ function App() {
       githubUrl: "https://github.com/RaphaelItotia/Water_Tanks_Prices_Kenya",
      // liveUrl: "",
     }
-    */
+    
     {
       title: "Kenyan YouTubers Analysis",
       description:
@@ -93,7 +93,7 @@ function App() {
      // liveUrl: "",
     }
   ];
-
+   */
   const skillCategories = [
     {
       title: "ICT & Systems Support",
