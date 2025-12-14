@@ -96,41 +96,36 @@ function App() {
 
   const skillCategories = [
     {
-      title: "Data Analytics",
+      title: "ICT & Systems Support",
       icon: Wrench,
       skills: [
-        "Python",
-        "SQL",
-        "Excel",
-        "Power BI"
+        "User Support & Training",
+        "Hardware & Peripheral Support",
+        "Software Installation & Troubleshooting"
       ],
     },
     {
-      title: "Computer Applications and AI Integration",
+      title: "Computer Applications Support",
       icon: Computer,
       skills: [
         "Google Workspace AI",
-        "VBA"
+        "Application User Support"
       ],
     },
     {
-      title: "Business Intelligence & Reporting",
+      title: "Digital Productivity Tools",
       icon: Sparkles,
       skills: [
-        "Dashboard Design",
-        "Trend Analysis",
-        "Business Metrics & KPIs"
+        "Task & Document Management",
+        "Workflow Optimization"
       ],
     },
     {
-      title: "Data Science & Machine Learning",
+      title: "AI-powered Solutions",
       icon: Bot,
       skills: [
-        "Pandas",
-        "Numpy",
-        "Scikit-learn",
-        "Matplotlib & Seaborn",
-        "Statistics"
+        "AI for Documentation & Reporting",
+        "AI-assisted Task Automation"
       ],
     }
   ];
