@@ -3,8 +3,8 @@ import {
   /*Linkedin*/
   Mail,
   ArrowDown,
-  LineChart, 
-  Presentation,
+  Tools, 
+  Sparkles,
   Brain,
   Computer,
 } from "lucide-react";
