@@ -3,7 +3,6 @@ import {
   /*Linkedin*/
   Mail,
   ArrowDown,
-  Settings,
   Wrench, 
   Sparkles,
   Brain,
@@ -223,7 +222,7 @@ function App() {
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
-                  <Settings className="h-5 w-5 text-indigo-600" />
+                  <Wrench className="h-5 w-5 text-indigo-600" />
                   <span>ICT & Systems Support</span>
                 </div>
                 <div className="flex items-center gap-2">
