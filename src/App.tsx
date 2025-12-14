@@ -5,7 +5,7 @@ import {
   ArrowDown,
   Wrench, 
   Sparkles,
-  Brain,
+  Bot,
   Computer,
 } from "lucide-react";
 import Navbar from "./components/Navbar"; 
@@ -124,7 +124,7 @@ function App() {
     },
     {
       title: "Data Science & Machine Learning",
-      icon: Brain,
+      icon: Bot,
       skills: [
         "Pandas",
         "Numpy",
@@ -230,7 +230,7 @@ function App() {
                   <span>Digital Productivity Tools</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <Brain className="h-5 w-5 text-indigo-600" />
+                  <Bot className="h-5 w-5 text-indigo-600" />
                   <span>AI-powered Solutions</span>
                 </div>
                 <div className="flex items-center gap-2">
