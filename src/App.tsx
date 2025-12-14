@@ -218,7 +218,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-gray-600 mb-6">
-                  I work with computer applications and AI-enabled tools to improve efficiency, streamline workflows, and support digital operations. My focus is on practical technology use—helping users get real value from everyday software, documentation systems, and AI-powered productivity tools.
+                  I work with computer applications and AI-enabled tools to improve efficiency, streamline workflows, and support digital operations. My focus is on practical technology use - helping users get real value from everyday software, documentation systems, and AI-powered productivity tools.
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
