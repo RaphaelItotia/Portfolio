@@ -222,8 +222,8 @@ function App() {
               </p>
               <div className="grid grid-cols-2 gap-6 mb-6">
                 <div className="flex items-center gap-2">
-                  <LineChart className="h-5 w-5 text-indigo-600" />
-                  <span>Data Analytics</span>
+                  <Tools className="h-5 w-5 text-indigo-600" />
+                  <span>ICT & Systems Support</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Presentation className="h-5 w-5 text-indigo-600" />
