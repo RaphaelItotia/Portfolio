@@ -333,6 +333,7 @@ function App() {
               >
                 <Github className="h-6 w-6" />
               </a>
+              {/*
               <a
                 href="https://www.linkedin.com/in/itotia-g-raphael"
                 target="_blank"
@@ -340,7 +341,7 @@ function App() {
                 className="hover:text-indigo-400 transition-colors"
               >
                 <Linkedin className="h-6 w-6" />
-              </a>
+              </a> */}
               <a
                 href="mailto:raphaelitotia@gmail.com"
                 className="hover:text-indigo-400 transition-colors"
